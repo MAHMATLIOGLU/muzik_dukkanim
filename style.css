@@ -1,0 +1,84 @@
+h1 {
+    color: crimson;
+    font-size: 38px;
+    text-align: center;
+}
+
+ul#menu{
+    list-style-type:circle;
+
+    margin: 0;
+
+    padding: 0;
+    
+    overflow: auto;
+
+    display: inline-block;
+    
+    text-align: left;
+    }
+
+ul#menu > li {
+    float:left;
+
+    display: block;
+
+    padding-left: 14px;
+
+    font-size: 20px;
+}
+
+div { text-align: center; 
+}
+
+h2 {
+    color: blueviolet;
+    font-size: 32px;
+}
+
+p {
+    font-size: 18px;
+}
+
+h3 {
+    color:coral;
+    font-size: 22px;
+}
+
+article {
+    text-align: left;
+}
+
+.Dosya {
+    text-align: left;
+}
+
+ul#urun {
+    display: block;
+    width: 80px;
+    margin: 0 auto;
+}
+
+li.sayfa {
+    font-size: 18px;
+    padding: 0px 0px 3px 0px;
+    
+}
+
+ul#urunler > li {
+    list-style: none;
+    padding: 0px 0px 10px 0px;
+    font-size: 18px;
+}
+
+ul#urunler > li > img {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+ul#urunler > li.sayfa {
+    text-align: center
+} 
+
